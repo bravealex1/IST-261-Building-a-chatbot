@@ -1,1 +1,1 @@
-# IST-261-Building-a-chatbot
+Building-a-chatbot
